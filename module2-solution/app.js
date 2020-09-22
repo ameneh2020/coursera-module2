@@ -41,9 +41,6 @@
               {name: "Pencil",
                quantity: 10
               },
-              {name: "iPhones 7",
-               quantity: 6
-              },
               {name: "Pens",
                quantity: 10
               },
